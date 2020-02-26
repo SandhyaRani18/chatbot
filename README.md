@@ -17,4 +17,10 @@ This process gets done by integrating Lex with Lambda and S3 Bucket
 
 ## Lambda Fulfillment
 
-- The Lambda channel requires
+- The Lambda fulfillment will be done in Lex.
+- This requires a node.js code which makes the integration of Lambda and S3 with Lex possible.
+- This fetches the required data from S3 bucket and sends it to the Lex.
+
+The code is provided here.
+
+## In Progress
