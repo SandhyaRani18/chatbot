@@ -8,5 +8,6 @@ This process gets done by integrating Lex with Lambda and S3 Bucket
 - Provide sample utterances for the bot.
 
 | Slots | Values |
+| --- | --- |
 | medicinetype | tablets,tonic,lotion |
 
