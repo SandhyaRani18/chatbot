@@ -14,3 +14,7 @@ This process gets done by integrating Lex with Lambda and S3 Bucket
 | Medicinetype | Tablets, Tonic, Lotion |
 | Age | Teen, Child, Old |
 | Symptoms | Cold, Cough, Allergy, Fever, Headache |
+
+## Lambda Fulfillment
+
+- The Lambda channel requires
