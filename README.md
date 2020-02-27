@@ -23,7 +23,7 @@ This process gets done by integrating Lex with Lambda and S3 Bucket
 
 The code is provided here.
 
-{https://github.com/ManojRamKumar/chatbot/blob/master/index.js}
+https://github.com/ManojRamKumar/chatbot/blob/master/index.js
 
 ## In Progress
 
