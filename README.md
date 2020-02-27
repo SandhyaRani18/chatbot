@@ -23,4 +23,10 @@ This process gets done by integrating Lex with Lambda and S3 Bucket
 
 The code is provided here.
 
+{
+
 ## In Progress
+
+![Amazon Lex - Google Chrome 03-02-2020 15_26_06 (2)](https://user-images.githubusercontent.com/60767617/75461534-f51e4180-59a8-11ea-90f0-c796b4aa995c.png)
+
+![Amazon Lex - Google Chrome 27-02-2020 20_07_06](https://user-images.githubusercontent.com/60767617/75461872-60681380-59a9-11ea-824f-7185bca108bb.png)
